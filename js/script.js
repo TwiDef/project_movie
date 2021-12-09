@@ -1,5 +1,5 @@
 const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
-
+//movie DataBase
 const personalMovieDB = {
     count: numberOfFilms,
     movies: {},
